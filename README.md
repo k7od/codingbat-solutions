@@ -16,18 +16,18 @@ Repository for Java solutions to CodingBat problems, organized by category.
    - and many.
    - 
 
-4. **Add, commit, and push your changes:**
+4. ## Add, commit, and push your changes:
 
 git add .
 git commit -m "Add solution for warmup1-sleepIn"
 git push origin warmup1-sleepIn
 
-5. ** Sync your main branch locally before starting the next problem:**
+5. ## Sync your main branch locally before starting the next problem:
 
 git checkout main
 git pull origin main
 
-6. **Folder Structure Example:**
+6. ## Folder Structure Example:**
 
 codingbat-solutions/
 ├── warmup1/
