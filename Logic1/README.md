@@ -1,8 +1,9 @@
-CodingBat Solutions:
+# CodingBat Solutions:
 
 This repository contains Java solutions for problems from CodingBat, a platform that helps improve programming skills through short practice exercises. The problems focus on basic programming concepts, logic, string manipulation, functional operations, and map usage.
 
-Logic-1:
+# Logic-1:
+
 Logic-1 problems are about using boolean logic and decision making, often involving:
 
 Complex boolean expressions
