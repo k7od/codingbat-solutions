@@ -1,9 +1,9 @@
 
-CodingBat Solutions:
+# CodingBat Solutions:
 
 This repository contains Java solutions for problems from CodingBat, a platform that helps improve programming skills through short practice exercises. The problems focus on basic programming concepts, logic, string manipulation, functional operations, and map usage.
 
-Functional-1:
+# Functional-1:
 
 This section introduces functional programming concepts applied to lists (arrays):
 
