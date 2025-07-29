@@ -1,39 +1,62 @@
-# CodingBat Solutions
+# CodingBat Java Practice Solutions
 
-Repository for Java solutions to CodingBat problems, organized by category.
+This repository contains detailed solutions and notes for all Java coding exercises available on [CodingBat](https://codingbat.com/java), organized by category.
 
---
+##  About CodingBat
 
-## How to Solve CodingBat Problems
+**CodingBat** is a free online platform developed by **Nick Parlante**, a Stanford computer science lecturer. It provides interactive Java and Python problems to help students practice and improve their coding skills.
 
-1. **Go to** [CodingBat](https://codingbat.com/)
-   
-2. **categories**,   
-   - Warmup-1  
-   - String-1  
-   - Array-1  
-   - Logic-1
-   - and many.
-   - 
+Each problem includes:
+- A short description
+- Examples of input/output
+- A built-in code editor with automatic test evaluation
 
-3. ## Add, commit, and push your changes:
+##  Purpose of This Repository
 
-git add .
-git commit -m "Add solution for warmup1-sleepIn"
-git push origin warmup1-sleepIn
+The goal of this repository is to:
+- Solve **every Java problem** on CodingBat.
+- Organize solutions **by category**.
+- Use **clean, beginner-friendly Java code**.
+- Follow a consistent **Git workflow** (branch per problem or doc, meaningful commit messages).
+- Include a `README.md` for each category with learning objectives and examples.
 
-4. ## Sync your main branch locally before starting the next problem:
+## 🧩 Java Categories Covered
 
-git checkout main
-git pull origin main
+| Category     | Description                                |
+|--------------|--------------------------------------------|
+| `Warmup-1`   | Basic Java functions and conditionals       |
+| `Warmup-2`   | Simple loops and repetition patterns        |
+| `String-1`   | String slicing, concatenation, conditions   |
+| `String-2`   | Pattern-based string logic with loops       |
+| `String-3`   | Harder string problems with edge cases      |
+| `Array-1`    | Simple array element access and logic       |
+| `Array-2`    | Arrays with loop-based counting and logic   |
+| `Array-3`    | Advanced array construction and balancing   |
+| `Logic-1`    | Number logic and branching rules            |
+| `Logic-2`    | Goal solving with greedy/conditional logic  |
+| `Logic-3`    | Complex logic with game-like rules          |
+| `Recursion-1`| Simple recursion problems (factorials, etc) |
+| `Recursion-2`| Hard recursion (subset sums, backtracking)  |
+| `Map-1`      | Using Java Maps (key-value manipulation)    |
+| `Map-2`      | More advanced Map problems (grouping, counts)|
 
-5. ## Folder Structure Example:**
+## 💡 How Solutions Are Structured
 
-codingbat-solutions/
-├── warmup1/
-│   ├── SleepIn.java
-│   └── MonkeyTrouble.java
-├── logic1/
-│   └── CaughtSpeeding.java
-└── string1/
-    └── HelloName.java
+- Each category has its **own folder**
+- Inside each folder:
+  - Java solution files for each problem
+  - A detailed `README.md` explaining the category’s goals, skills used, and examples
+- Solutions use **simple, student-style Java** for learning clarity
+
+## 🚀 Git Workflow
+
+Each solution or doc update is:
+- Done in a dedicated branch (e.g., `warmup1-sleepIn`, `docs-string1-readme`)
+- Committed with a clear message (e.g., `Add solution for warmup1-sleepIn`)
+- Merged into `main` after testing via Pull Request
+
+## 🔗 Useful Links
+
+- [CodingBat Java Problems](https://codingbat.com/java)
+- [Nick Parlante's Teaching Page](https://web.stanford.edu/class/cs106a/)
+
