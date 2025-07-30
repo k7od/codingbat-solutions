@@ -7,11 +7,11 @@ Introduction to array basics (fixed size, read access).
 
 ## Concepts Practiced:
 
-1. Array access arr[i]
+1. Array access arr[i.
 
-2. length property
+2. length property.
 
-3. Simple conditions
+3. Simple conditions.
 
 
 ## Problem Types:
