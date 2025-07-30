@@ -7,20 +7,20 @@ Introduction to array basics (fixed size, read access).
 
 ## Concepts Practiced:
 
-1. Array access arr[i.
+- Array access arr[i.
 
-2. length property.
+- length property.
 
-3. Simple conditions.
+- Simple conditions.
 
 
 ## Problem Types:
 
-1. Compare array values
+- Compare array values
 
-2. Create small new arrays
+- Create small new arrays
 
-3. Return fixed values
+- Return fixed values
 
 ## Difficulty: Easy
 
