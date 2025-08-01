@@ -8,9 +8,9 @@ More complex use of Map, including counting and grouping.
 
 - Map<String, Integer>
 
-- Count words or values
+- Count words or values.
 
-- Return new maps
+- Return new maps.
 
 ## Difficulty: 
 
