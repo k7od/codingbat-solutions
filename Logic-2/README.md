@@ -7,11 +7,11 @@ Intermediate logic challenges with more branches and real-life problems.
 
 ## Concepts Practiced:
 
-- Advanced condition flow
+- Advanced condition flow.
 
-- Handling limitations
+- Handling limitations.
 
-- Greedy math logic
+- Greedy math logic.
 
 ## Problem Types:
 
