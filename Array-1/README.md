@@ -16,11 +16,11 @@ Introduction to array basics (fixed size, read access).
 
 ## Problem Types:
 
-- Compare array values
+- Compare array values.
 
-- Create small new arrays
+- Create small new arrays.
 
-- Return fixed values
+- Return fixed values.
 
 ## Difficulty: Easy
 
