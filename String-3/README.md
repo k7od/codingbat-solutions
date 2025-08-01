@@ -8,9 +8,9 @@ Harder string problems requiring careful substring and logic checks.
 
 ## Key Concepts:
 
-- Advanced substring and pattern matching
-- Counting with conditions
-- Edge case handling
+- Advanced substring and pattern matching.
+- Counting with conditions.
+- Edge case handling.
 
 
 ## Problem Styles:
