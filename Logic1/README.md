@@ -6,11 +6,11 @@ This repository contains Java solutions for problems from CodingBat, a platform 
 
 Logic-1 problems are about using boolean logic and decision making, often involving:
 
-Complex boolean expressions
+Complex boolean expressions.
 
 Multiple conditions combined with AND/OR
 
-Nested if-else logic
+Nested if-else logic.
 
 Evaluating scenarios with logical constraints
 
