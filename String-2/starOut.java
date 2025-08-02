@@ -1,4 +1,5 @@
 public String starOut(String str) {
+  
   String result = "";
   
   for (int i= 0; i < str.length(); i++) {
@@ -17,3 +18,5 @@ public String starOut(String str) {
   }
   return result;
 }
+
+
